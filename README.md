@@ -3,7 +3,7 @@
 Group project for CST336-40 Internet Programming
 
 You can see our final report here:
-[Project Report Link](CST336-40-Internet-Programming-Final-Project/CST336-40-Internet-Programming-Final-Project-Report.pdf)
+[Project Report Link](CST336-40-Internet-Programming-Final-Project-Report.pdf)
 
 It shows our work distributions, mockups, and walks through our final product.
 
