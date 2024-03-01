@@ -16,3 +16,5 @@ Therefore, you may be required to fork and run the site yourself.
 You can use these credentials to access a test account we used for demonstration purposes:
 - **Username:** admin
 - **Password:** secret
+
+![Demo Screenshot]([https://github.com/Br-ak/CST336-40-Internet-Programming-Final-Project/blob/main/Demo.png?raw=true](https://raw.githubusercontent.com/Br-ak/CST336-40-Internet-Programming-Final-Project/main/Demo.png))
