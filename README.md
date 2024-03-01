@@ -14,5 +14,5 @@ Repl.it has gone through many changes in their services since we did this projec
 Therefore, you may be required to fork and run the site yourself.
 
 You can use these credentials to access a test account we used for demonstration purposes:
-- **Username:** test
-- **Password:** test
+- **Username:** admin
+- **Password:** secret
